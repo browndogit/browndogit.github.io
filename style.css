@@ -173,28 +173,28 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 	font-family: Ubuntu;
 	font-size: 18px;
 }
-#bloc-6 p{
+#bloc-5 p{
 	font-size: 14px;
 }
-#bloc-7 h2{
+#bloc-6 h2{
 	font-size: 35px;
 }
-#bloc-7 h3{
+#bloc-6 h3{
 	font-size: 28px;
 }
-#bloc-7 p{
+#bloc-6 p{
 	font-size: 16.000000953674316px;
 }
-#bloc-10 h3{
+#bloc-9 h3{
 	font-size: 28px;
 }
-#bloc-10 p{
+#bloc-9 p{
 	font-size: 24px;
 }
-#bloc-13 p{
+#bloc-12 p{
 	font-size: 20px;
 }
-#bloc-14 h3{
+#bloc-13 h3{
 	font-size: 28px;
 }
 
@@ -449,13 +449,6 @@ button{
 }
 
 
-/* = Forms
--------------------------------------------------------------- */
-
-.form-control{
-	border-color:rgba(0,0,0,.1);
-	box-shadow:none;
-}
 
 /* iFrame */
 
@@ -588,6 +581,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .mb-bloc-text-vc{
 	font-size:50px;
 }
+.watch-bloc-text-vc{
+	color:#1d1d1d;
+	font-size:50px;
+	margin-top:20%;
+	font-family:"Lato";
+	font-weight:300;
+}
+.blocs-blue-button{
+	background-color:#41b6f3;
+}
+.blocs-blue-button:hover{
+	background-color:#39a6de;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
@@ -604,7 +610,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Bloc image backgrounds */
 
 .bg-lines-dr2-bg{
-	background-image:url('img/lines-dr2-bg.png');
+	background-image:url("img/lines-dr2-bg.png");
 }
 
 
