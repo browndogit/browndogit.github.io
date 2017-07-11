@@ -579,14 +579,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Background colour styles */
 
 .bgc-white{
-	background-color:#FEFFFF;
+	background-color:#FFFFFF;
 }
 
 /* Bloc image backgrounds */
 
-.bg-lines-dr2-bg{
-	background-image:url("img/lines-dr2-bg.png");
-}
 
 
 
